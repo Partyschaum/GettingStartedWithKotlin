@@ -1,4 +1,4 @@
-package usecase
+package de.shinythings.gettingstartedwithkotlin.shoppingcart.usecase
 
 import de.shinythings.gettingstartedwithkotlin.shoppingcart.model.*
 import java.util.*

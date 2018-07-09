@@ -3,8 +3,6 @@ package de.shinythings.gettingstartedwithkotlin.shoppingcart.usecase
 import de.shinythings.gettingstartedwithkotlin.shoppingcart.model.*
 import io.kotlintest.matchers.collections.shouldContain
 import io.kotlintest.specs.StringSpec
-import usecase.AddItemToShoppingCart
-import usecase.AddItemToShoppingCartRequest
 import java.util.*
 
 class AddProductToShoppingCartTest : StringSpec({
